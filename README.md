@@ -1,5 +1,5 @@
 ## About
-- A Jump-based FP game that is about a person who loves to roam around the world carrying his bow with him 
+- A Jump-based FP game that is about a person who loves to roam around the world carrying his bow along with him 
 
 ## Status
 On Progress
