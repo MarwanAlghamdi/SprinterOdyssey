@@ -1,5 +1,5 @@
 ## About
-- A FP game that relies entirely on movement and simulates human movements
+- A Jump-based FP game that is about a person who loves to roam around the world carrying his bow with him 
 
 ## Status
 On Progress
